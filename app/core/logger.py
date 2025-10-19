@@ -1,3 +1,3 @@
 import logging
-logger = logging.getLogger("mentalcareai")
+logger = logging.getLogger("sumarizeai")
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
